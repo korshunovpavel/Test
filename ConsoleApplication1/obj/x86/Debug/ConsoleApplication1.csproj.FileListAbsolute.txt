@@ -1,0 +1,13 @@
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+d:\StudyProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\FactorFalcon.Common.pdb
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.ret.resources
+D:\StudyProjects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
